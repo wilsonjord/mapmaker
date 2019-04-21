@@ -1,0 +1,2 @@
+# mapmaker
+Auto map generator
